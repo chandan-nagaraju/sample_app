@@ -45,3 +45,7 @@ git remote add origin https://github.com/c17hawke/simple-dvc-demo.git
 git branch -M main
 git push origin main
 ```
+
+```bash
+git push origin HEAD:main
+```
